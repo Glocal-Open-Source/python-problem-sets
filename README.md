@@ -39,7 +39,6 @@ If you are comfortable with Git:
 ```bash
 git clone https://github.com/Glocal-Open-Source/python-problem-sets.git
 ```
-
 ---
 
 ## 3. Open the Folder
@@ -79,7 +78,7 @@ def extract_page_numbers():
     return int(parts[1]), int(parts[3])
 ```
 
-Save your changes as you go.
+Save your changes as you go. If you ever get stuck, run `run for hints` to solve basic arithmetic in python terminal to receive hints.
 
 ---
 
@@ -95,7 +94,7 @@ The output will show which tasks passed or failed. Example:
 
 ```
 [PASS] extract_page_numbers
-[FAIL] reverse_string — got 'IAnepO' expected 'OpenAI'
+[FAIL] reverse_string — got 'LACOGL' expected 'LACOLG'
 ```
 
 Fix any failing functions in `glocal_practice.py` until all tasks pass.
@@ -117,7 +116,7 @@ It means you have not edited any functions yet.
 3. Right-click the file and select "Share".
 4. Set link sharing to "Anyone with the link" (Viewer access).
 5. Copy the link.
-6. Submit the link as your final submission.
+6. Submit the link as your final submission using PY01 as the submission code and 120 hours 
 
 ---
 
@@ -144,3 +143,4 @@ It means you have not edited any functions yet.
 
 
 ---
+
